@@ -8,5 +8,4 @@ Fast, lightweight & scalable.
 
 KoalaBear Game Engine aims to make game development started with the bare minimum.
 
-
 **Usage info and examples coming soon :)**
